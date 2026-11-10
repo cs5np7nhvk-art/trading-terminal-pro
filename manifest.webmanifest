@@ -1,0 +1,9 @@
+{
+  "name": "Trading Terminal PRO",
+  "short_name": "Trading PRO",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d16",
+  "theme_color": "#080d16",
+  "icons": []
+}
